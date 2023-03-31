@@ -13,6 +13,18 @@ No projeto foram adicionados alguns comentários para o melhor entendimento do d
 - Bootstrap (Frontend)
 - Node.js / Express.js
 
+### Instalando as dependências
+
+Na pasta do raiz do projeto execute:
+
+```bash
+yarn install
+# ou
+npm install
+```
+
+> Este passo só precisa ser feito na primeira vez que rodar o projeto
+
 ## Iniciando o servidor:
 - Abra o terminal [Mongosh](https://www.mongodb.com/docs/mongodb-shell/install/#std-label-mdb-shell-install) e digite a porta que deseja que o servidor se conecte (Exemplo: 8090)
 
